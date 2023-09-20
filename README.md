@@ -43,3 +43,12 @@ P1 is now selected
 > q
 ```
 
+## TODO
+
+- Registration
+- Connection information
+- Logging
+- Traffics
+- Configure clash
+- Rules information
+- Provider proxy information
